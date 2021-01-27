@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 Nice having you here.
+
+### Also by me
+ * Teranóstico: https://github.com/Teranostico
+
 
 <!--
 **JorgeGuerraPires/JorgeGuerraPires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
